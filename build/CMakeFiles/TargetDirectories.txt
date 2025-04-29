@@ -1,3 +1,0 @@
-C:/Users/88018/OneDrive/Desktop/VirtualArtGallery/build/CMakeFiles/VirtualArtGallery.dir
-C:/Users/88018/OneDrive/Desktop/VirtualArtGallery/build/CMakeFiles/edit_cache.dir
-C:/Users/88018/OneDrive/Desktop/VirtualArtGallery/build/CMakeFiles/rebuild_cache.dir
